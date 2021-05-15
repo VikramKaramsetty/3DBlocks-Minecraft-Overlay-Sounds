@@ -1,0 +1,35 @@
+{
+	"variants": {
+		"facing=up": [{
+				"model": "torch/torch"
+			},
+			{
+				"model": "torch/torch_1"
+			},
+			{
+				"model": "torch/torch_2"
+			},
+			{
+				"model": "torch/torch_3"
+			},
+			{
+				"model": "torch/torch_4"
+			}
+		],
+		"facing=east": {
+			"model": "normal_torch_wall"
+		},
+		"facing=south": {
+			"model": "normal_torch_wall",
+			"y": 90
+		},
+		"facing=west": {
+			"model": "normal_torch_wall",
+			"y": 180
+		},
+		"facing=north": {
+			"model": "normal_torch_wall",
+			"y": 270
+		}
+	}
+}

@@ -1,0 +1,9 @@
+Credits:
+
+All models made with BlockBench
+
+Sounds compiled from many packs + custom ones
+
+Iron Golem texture maker: PogParrot
+
+Optifine Ctm file (mcpatcher) from bedlessnoob 60k pack

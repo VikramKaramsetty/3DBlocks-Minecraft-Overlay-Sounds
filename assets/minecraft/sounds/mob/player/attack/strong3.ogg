@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Created by The Hybred. Twitter @TheHybred YouTube @Hybred.",
+        "name": "§dPvP §bSounds",
+        "uuid": "fa89ba1b-65e6-4c18-bb41-2169c4954267",
+        "version": [
+            1,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Created by The Hybred. Twitter @TheHybred YouTube @Hybred.",
+            "type": "resources",
+            "uuid": "22773589-2dbd-4276-707a-2c039ec69ff5",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}
