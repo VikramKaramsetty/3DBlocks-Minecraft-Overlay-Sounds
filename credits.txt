@@ -6,4 +6,6 @@ Sounds compiled from many packs + custom ones
 
 Iron Golem texture maker: PogParrot
 
-Optifine Ctm file (mcpatcher) from bedlessnoob 60k pack
+Bedwars wool texture maker: PogParrot
+
+Bridge overlay from Red+Bridge+Overlay modified.
