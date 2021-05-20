@@ -6,7 +6,8 @@
 
 2. Unzip the file and take out the folder inside and place it in your resource packs folder. 
 
-3. To put your own skin on the bed, go to `\3D + Sounds Overlay Pack\assets\minecraft\textures\custom\bed\doNotChangeThisName.png`
+3. To put your own skin on the bed, go to 
+`\3D + Sounds Overlay Pack\assets\minecraft\textures\custom\bed\doNotChangeThisName.png`
 
 4. Once you are here, put your own skin file and make sure it has the ***same exact*** file name.
  
