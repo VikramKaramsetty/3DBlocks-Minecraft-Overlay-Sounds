@@ -1,11 +1,18 @@
 Credits:
 
+Creator: newtopvp
+
 All models made with BlockBench
 
 Sounds compiled from many packs + custom ones
 
-Iron Golem texture maker: PogParrot
-
-Bedwars wool texture maker: PogParrot
+Main texture maker: PogParrot
 
 Bridge overlay from Red+Bridge+Overlay modified.
+
+Most hypixel replay icons etc. from Apple Pies overlays
+
+Heal pool animation maker: PogParrot
+
+Bedwars shop and map overlay: Sybillians BW Pack 
+(https://hypixel.net/threads/updated-for-easter-bedwars-overlay-resource-pack-textures-map-selector-team-shop-and-more.3851841/ for more info)
