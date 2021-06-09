@@ -32,6 +32,12 @@ Custom randomized Among Us colored torches
 
 Custom Among Us Iron Golem
 
+Bedwars shop overlay
+
+Hypixel replay/settings/item overlay
+
+Animated heal pool
+
 ## Other Notes
 
 All textures and models are customizable if you look through the files. Check credits.txt for credits to the appropriate people.
