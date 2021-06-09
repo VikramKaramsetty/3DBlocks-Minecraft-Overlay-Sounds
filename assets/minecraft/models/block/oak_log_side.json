@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/column_side",
 	"textures": {
 		"particle": "blocks/log_oak_top",
 		"end": "blocks/log_oak_top",
