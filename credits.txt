@@ -1,6 +1,6 @@
 Credits:
 
-Creator: newtopvp
+Creator: MU8
 
 All models made with BlockBench
 
@@ -16,3 +16,5 @@ Heal pool animation maker: PogParrot
 
 Bedwars shop and map overlay: Sybillians BW Pack 
 (https://hypixel.net/threads/updated-for-easter-bedwars-overlay-resource-pack-textures-map-selector-team-shop-and-more.3851841/ for more info)
+
+Ores: Adeptcraft_3D_Ores
